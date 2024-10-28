@@ -11,6 +11,11 @@ The dataset is stored in the CSV file and contains the following information:
 - expert1_atypical, expert2_atypical, expert3_atypical: binary classification by three experts into normal and atypical mitotic figures. Is True in case of atypical MF.
 - majority_atypical: Indication if majority of experts (previous three columns) found this MF to be an atypical MF.
 
+### Subclasses
+
+![Image showing all subclasses](./images/0000-fig1.png)
+
+
 We futhermore provide crop-outs (128x128 px) of the agreed atypical and normal MF in the folder `patches`.
 
 We used the relabeled version of the TUPAC16 dataset, which has an overall higher consistency:
