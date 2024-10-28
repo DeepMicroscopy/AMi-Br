@@ -13,7 +13,11 @@ The dataset is stored in the CSV file and contains the following information:
 
 ### Subclasses
 
-![Image showing all subclasses](./images/0000-fig1.png)
+Two pathology experts subclassified the mitotic figures into the following subclasses:
+
+![Image showing all subclasses](./images/subclassification.jpg)
+
+### Patches
 
 
 We futhermore provide crop-outs (128x128 px) of the agreed atypical and normal MF in the folder `patches`.
