@@ -1,4 +1,4 @@
-## AMI-Br: A Dataset of Typical and Atypical Mitotic Figures on Human Breast Cancer
+## AMi-Br: A Dataset of Typical and Atypical Mitotic Figures on Human Breast Cancer
 
 This repository provides the AMI-Br dataset, a subclassification of all mitotic figures (MFs) in the TUPAC16 and MIDOG21 datasets into phases of the mitotic cycle and into atypical morphologies.
 
@@ -33,4 +33,4 @@ We used the relabeled version of the TUPAC16 dataset, which has an overall highe
 ### Citation
 
 If you use or dataset, please cite our paper:
-- Bertram, C.A., Weiss, V., Donovan, T.A., Banerjee, S., Conrda, T., Ammeling, J., Klopfleisch, R., Kaltenecker, C. & Aubreville, M. (2025). A Histologic Dataset of Normal and Atypical Mitotic Figures on Human Breast Cancer (AMI-Br). In: Proceedings of the BVM Workshop 2025, Springer 2025
+- Bertram, C.A., Weiss, V., Donovan, T.A., Banerjee, S., Conrda, T., Ammeling, J., Klopfleisch, R., Kaltenecker, C. & Aubreville, M. (2025). A Histologic Dataset of Normal and Atypical Mitotic Figures on Human Breast Cancer (AMi-Br). In: Proceedings of the BVM Workshop 2025, Springer 2025
