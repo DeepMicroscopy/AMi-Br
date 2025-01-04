@@ -33,4 +33,4 @@ We used the relabeled version of the TUPAC16 dataset, which has an overall highe
 ### Citation
 
 If you use or dataset, please cite our paper:
-- Bertram, C.A., Weiss, V., Donovan, T.A., Banerjee, S., Conrda, T., Ammeling, J., Klopfleisch, R., Kaltenecker, C. & Aubreville, M. (2025). AMI-Br: A Histologic Dataset of Normal and Atypical Mitotic Figures on Human Breast Cancer. In: Proceedings of the BVM Workshop 2025, Springer 2025
+- Bertram, C.A., Weiss, V., Donovan, T.A., Banerjee, S., Conrda, T., Ammeling, J., Klopfleisch, R., Kaltenecker, C. & Aubreville, M. (2025). A Histologic Dataset of Normal and Atypical Mitotic Figures on Human Breast Cancer (AMI-Br). In: Proceedings of the BVM Workshop 2025, Springer 2025
