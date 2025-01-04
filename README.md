@@ -22,7 +22,15 @@ Two pathology experts subclassified the mitotic figures into the following subcl
 
 We futhermore provide crop-outs (128x128 px) of the agreed atypical and normal MF in the folder `patches`.
 
+### Data sources
+
+We used the MIDOG 2021 dataset, which is publically available:
+- https://zenodo.org/records/4643381
+
 We used the relabeled version of the TUPAC16 dataset, which has an overall higher consistency:
 - Bertram, C. A., Veta, M., Marzahl, C., Stathonikos, N., Maier, A., Klopfleisch, R., & Aubreville, M. (2020). Are pathologist-defined labels reproducible? Comparison of the TUPAC16 mitotic figure dataset with an alternative set of labels. In Interpretable and Annotation-Efficient Learning for Medical Image Computing: Third International Workshop, iMIMIC 2020, Second International Workshop, MIL3ID 2020, and 5th International Workshop, LABELS 2020, Held in Conjunction with MICCAI 2020, Lima, Peru, October 4–8, 2020, Proceedings 3 (pp. 204-213). Springer International Publishing. [![DOI:10.1007/978-3-030-61166-8_22](https://zenodo.org/badge/DOI/10.1007/978-3-030-61166-8_22.svg)](https://doi.org/10.1007/978-3-030-61166-8_22)
 
+### Citation
 
+If you use or dataset, please cite our paper:
+- Bertram, C.A., Weiss, V., Donovan, T.A., Banerjee, S., Conrda, T., Ammeling, J., Klopfleisch, R., Kaltenecker, C. & Aubreville, M. (2025). AMI-Br: A Histologic Dataset of Normal and Atypical Mitotic Figures on Human Breast Cancer. In: Proceedings of the BVM Workshop 2025, Springer 2025
